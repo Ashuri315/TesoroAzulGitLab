@@ -1,0 +1,14 @@
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\bin\Debug\net8.0\TesoroAzul.Infraestructure.deps.json
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\bin\Debug\net8.0\TesoroAzul.Infraestructure.runtimeconfig.json
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\bin\Debug\net8.0\TesoroAzul.Infraestructure.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\bin\Debug\net8.0\TesoroAzul.Infraestructure.pdb
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.AssemblyInfo.cs
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\refint\TesoroAzul.Infraestructure.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.pdb
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\TesoroAzul.Infraestructure.genruntimeconfig.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Infraestructure\obj\Debug\net8.0\ref\TesoroAzul.Infraestructure.dll
