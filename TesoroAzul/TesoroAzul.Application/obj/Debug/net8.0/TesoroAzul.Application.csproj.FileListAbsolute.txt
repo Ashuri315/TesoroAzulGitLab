@@ -1,0 +1,15 @@
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\bin\Debug\net8.0\TesoroAzul.Application.deps.json
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\bin\Debug\net8.0\TesoroAzul.Application.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\bin\Debug\net8.0\TesoroAzul.Application.pdb
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\bin\Debug\net8.0\TesoroAzul.Infraestructure.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\bin\Debug\net8.0\TesoroAzul.Infraestructure.pdb
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.csproj.AssemblyReference.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.AssemblyInfoInputs.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.AssemblyInfo.cs
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.csproj.CoreCompileInputs.cache
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAz.C2625A0D.Up2Date
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\refint\TesoroAzul.Application.dll
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\TesoroAzul.Application.pdb
+C:\Users\ashle\gitLab\TesoroAzul\TesoroAzul.Application\obj\Debug\net8.0\ref\TesoroAzul.Application.dll
